@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-8)x+-+o$xotgn#u52*m)l*9^l+w=z6jl-ix%4ye&*+ky3v99$f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-# ALLOWED_HOSTS = ['lebtech1-c5c411ab5e01.herokuapp.com', '127.0.0.1' 'localhost', 'www.lebtech.ltd', 'lebtech.ltd']
+ALLOWED_HOSTS = ['lebtech1-c5c411ab5e01.herokuapp.com', '127.0.0.1' 'localhost', 'www.lebtech.ltd', 'lebtech.ltd']
 
 
 
